@@ -1,4 +1,4 @@
-# RoboND - Project2: Go Chase It
+# RobotND - Project2: Go Chase It
 Project 2 of Udacity Robotics Software Engineer Nanodegree Program
 
 ## Summary of Tasks  
